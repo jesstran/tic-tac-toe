@@ -1,0 +1,17 @@
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\TicTacToeTests.pdb
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.exe
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.pdb
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\TicTacToe.exe.config
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csprojAssemblyReference.cache
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csproj.CoreCompileInputs.cache
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.csproj.CopyComplete
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.dll
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToeTests\obj\Debug\TicTacToeTests.pdb

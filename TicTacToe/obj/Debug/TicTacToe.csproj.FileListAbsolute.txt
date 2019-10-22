@@ -1,0 +1,9 @@
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+G:\TEMPLE\CIS 3374\Lab 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
